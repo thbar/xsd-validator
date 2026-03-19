@@ -1,2 +1,4 @@
 # in case you use `mise` (https://mise.jdx.dev) to install dotnet
 dotnet 10.0.103
+elixir 1.19.4-otp-27
+erlang 27.3.4.1
