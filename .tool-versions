@@ -1,0 +1,2 @@
+# in case you use `mise` (https://mise.jdx.dev) to install dotnet
+dotnet 10.0.103
